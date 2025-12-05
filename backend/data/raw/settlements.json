@@ -1,0 +1,108 @@
+{
+  "settlements": [
+    {
+      "id": "budapest",
+      "name": "Budapest",
+      "type": "capital",
+      "regionId": "budapest",
+      "coordinates": [19.0402, 47.4979],
+      "population": 1752286,
+      "eligibleVoters": 1410000,
+      "note": "Főváros"
+    },
+    {
+      "id": "budapest-01",
+      "name": "Budapest - I. kerület",
+      "nameWithRegion": "Budapest - I. kerület (Várnegyed)",
+      "type": "district",
+      "regionId": "budapest",
+      "coordinates": [19.0335, 47.5007],
+      "population": 24567,
+      "eligibleVoters": 19800,
+      "parentSettlementId": "budapest",
+      "note": "Várnegyed"
+    },
+    {
+      "id": "budapest-02",
+      "name": "Budapest - II. kerület",
+      "nameWithRegion": "Budapest - II. kerület (Erzsébetváros)",
+      "type": "district",
+      "regionId": "budapest",
+      "coordinates": [19.0433, 47.5102],
+      "population": 28912,
+      "eligibleVoters": 23200,
+      "parentSettlementId": "budapest",
+      "note": "Erzsébetváros"
+    },
+    {
+      "id": "debrecen",
+      "name": "Debrecen",
+      "type": "county-seat",
+      "regionId": "hajdu-bihar",
+      "coordinates": [21.6348, 47.5301],
+      "population": 201432,
+      "eligibleVoters": 162000,
+      "note": "Hajdú-Bihar megye székhelye"
+    },
+    {
+      "id": "szeged",
+      "name": "Szeged",
+      "type": "county-seat",
+      "regionId": "csongrad-csanad",
+      "coordinates": [20.1452, 46.2530],
+      "population": 160099,
+      "eligibleVoters": 128000,
+      "note": "Csongrád-Csanád megye székhelye"
+    },
+    {
+      "id": "pecs",
+      "name": "Pécs",
+      "type": "county-seat",
+      "regionId": "baranya",
+      "coordinates": [18.2337, 46.0736],
+      "population": 144674,
+      "eligibleVoters": 115700,
+      "note": "Baranya megye székhelye"
+    },
+    {
+      "id": "miskolc",
+      "name": "Miskolc",
+      "type": "county-seat",
+      "regionId": "borsod-abauj-zemplen",
+      "coordinates": [20.7833, 48.0961],
+      "population": 157620,
+      "eligibleVoters": 126000,
+      "note": "Borsod-Abaúj-Zemplén megye székhelye"
+    },
+    {
+      "id": "gyor",
+      "name": "Győr",
+      "type": "county-seat",
+      "regionId": "gyor-moson-sopron",
+      "coordinates": [17.6361, 47.6864],
+      "population": 123532,
+      "eligibleVoters": 99000,
+      "note": "Győr-Moson-Sopron megye székhelye"
+    },
+    {
+      "id": "kecskeme",
+      "name": "Kecskemét",
+      "type": "city",
+      "regionId": "bacs-kiskun",
+      "coordinates": [19.2699, 46.8999],
+      "population": 108919,
+      "eligibleVoters": 87000,
+      "note": "Bács-Kiskun megye nagyobb városa"
+    },
+    {
+      "id": "egyhazasdengeleg",
+      "name": "Egyházasdengeleg",
+      "type": "village",
+      "regionId": "somogy",
+      "coordinates": [18.3333, 46.8333],
+      "population": 1245,
+      "eligibleVoters": 1000,
+      "note": "Somogy megye kis községe"
+    }
+  ]
+}

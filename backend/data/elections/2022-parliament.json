@@ -1,0 +1,439 @@
+{
+  "electionId": "2022-parliament",
+  "electionDate": "2022-04-03",
+  "electionType": "parliament",
+  "electionName": "2022. április 3. - Országgyűlési választások",
+  "totalRegisteredVoters": 8045000,
+  "totalParticipation": 5449000,
+  "participationRate": 67.7,
+  "nationalPartyResults": [
+    {
+      "partyId": "fidesz-kdnp",
+      "partyName": "Fidesz-KDNP",
+      "votes": 1553000,
+      "percentage": 29.8
+    },
+    {
+      "partyId": "mi-hazank",
+      "partyName": "Mi Hazánk",
+      "votes": 440000,
+      "percentage": 8.4
+    },
+    {
+      "partyId": "dk",
+      "partyName": "DK",
+      "votes": 325000,
+      "percentage": 6.2
+    },
+    {
+      "partyId": "jobbik",
+      "partyName": "Jobbik",
+      "votes": 298000,
+      "percentage": 5.7
+    },
+    {
+      "partyId": "mszp-parbeszed",
+      "partyName": "MSZP-Párbeszéd",
+      "votes": 198000,
+      "percentage": 3.8
+    },
+    {
+      "partyId": "lmp",
+      "partyName": "LMP",
+      "votes": 156000,
+      "percentage": 3.0
+    },
+    {
+      "partyId": "momentum",
+      "partyName": "Momentum",
+      "votes": 134000,
+      "percentage": 2.6
+    }
+  ],
+  "regionResults": [
+    {
+      "regionId": "budapest",
+      "regionName": "Budapest",
+      "electionId": "2022-parliament",
+      "totalRegisteredVoters": 1410000,
+      "totalVoters": 956000,
+      "participationRate": 67.8,
+      "aggregatedPartyResults": [
+        {
+          "partyId": "fidesz-kdnp",
+          "partyName": "Fidesz-KDNP",
+          "votes": 285000,
+          "percentage": 29.8
+        },
+        {
+          "partyId": "mi-hazank",
+          "partyName": "Mi Hazánk",
+          "votes": 95600,
+          "percentage": 10.1
+        },
+        {
+          "partyId": "dk",
+          "partyName": "DK",
+          "votes": 98000,
+          "percentage": 10.3
+        },
+        {
+          "partyId": "jobbik",
+          "partyName": "Jobbik",
+          "votes": 32500,
+          "percentage": 3.4
+        },
+        {
+          "partyId": "mszp-parbeszed",
+          "partyName": "MSZP-Párbeszéd",
+          "votes": 28600,
+          "percentage": 3.0
+        }
+      ],
+      "settlementResults": [
+        {
+          "settlementId": "budapest",
+          "settlementName": "Budapest",
+          "electionId": "2022-parliament",
+          "electionDate": "2022-04-03",
+          "electionType": "parliament",
+          "registeredVoters": 1410000,
+          "totalVoters": 956000,
+          "participationRate": 67.8,
+          "leadVotes": 956000,
+          "validVotes": 950000,
+          "invalidVotes": 6000,
+          "partyResults": [
+            {
+              "partyId": "fidesz-kdnp",
+              "partyName": "Fidesz-KDNP",
+              "votes": 285000,
+              "percentage": 29.8
+            },
+            {
+              "partyId": "mi-hazank",
+              "partyName": "Mi Hazánk",
+              "votes": 95600,
+              "percentage": 10.1
+            },
+            {
+              "partyId": "dk",
+              "partyName": "DK",
+              "votes": 98000,
+              "percentage": 10.3
+            },
+            {
+              "partyId": "jobbik",
+              "partyName": "Jobbik",
+              "votes": 32500,
+              "percentage": 3.4
+            },
+            {
+              "partyId": "mszp-parbeszed",
+              "partyName": "MSZP-Párbeszéd",
+              "votes": 28600,
+              "percentage": 3.0
+            },
+            {
+              "partyId": "lmp",
+              "partyName": "LMP",
+              "votes": 18950,
+              "percentage": 2.0
+            },
+            {
+              "partyId": "momentum",
+              "partyName": "Momentum",
+              "votes": 16350,
+              "percentage": 1.7
+            }
+          ]
+        },
+        {
+          "settlementId": "debrecen",
+          "settlementName": "Debrecen",
+          "electionId": "2022-parliament",
+          "electionDate": "2022-04-03",
+          "electionType": "parliament",
+          "registeredVoters": 162000,
+          "totalVoters": 108000,
+          "participationRate": 66.7,
+          "leadVotes": 108000,
+          "validVotes": 105000,
+          "invalidVotes": 3000,
+          "partyResults": [
+            {
+              "partyId": "fidesz-kdnp",
+              "partyName": "Fidesz-KDNP",
+              "votes": 31500,
+              "percentage": 30.0
+            },
+            {
+              "partyId": "mi-hazank",
+              "partyName": "Mi Hazánk",
+              "votes": 8100,
+              "percentage": 7.7
+            },
+            {
+              "partyId": "dk",
+              "partyName": "DK",
+              "votes": 6200,
+              "percentage": 5.9
+            },
+            {
+              "partyId": "jobbik",
+              "partyName": "Jobbik",
+              "votes": 7900,
+              "percentage": 7.5
+            },
+            {
+              "partyId": "mszp-parbeszed",
+              "partyName": "MSZP-Párbeszéd",
+              "votes": 5200,
+              "percentage": 5.0
+            },
+            {
+              "partyId": "lmp",
+              "partyName": "LMP",
+              "votes": 3150,
+              "percentage": 3.0
+            },
+            {
+              "partyId": "momentum",
+              "partyName": "Momentum",
+              "votes": 2950,
+              "percentage": 2.8
+            }
+          ]
+        },
+        {
+          "settlementId": "szeged",
+          "settlementName": "Szeged",
+          "electionId": "2022-parliament",
+          "electionDate": "2022-04-03",
+          "electionType": "parliament",
+          "registeredVoters": 128000,
+          "totalVoters": 86000,
+          "participationRate": 67.2,
+          "leadVotes": 86000,
+          "validVotes": 84000,
+          "invalidVotes": 2000,
+          "partyResults": [
+            {
+              "partyId": "fidesz-kdnp",
+              "partyName": "Fidesz-KDNP",
+              "votes": 25000,
+              "percentage": 29.8
+            },
+            {
+              "partyId": "mi-hazank",
+              "partyName": "Mi Hazánk",
+              "votes": 5500,
+              "percentage": 6.5
+            },
+            {
+              "partyId": "dk",
+              "partyName": "DK",
+              "votes": 7800,
+              "percentage": 9.3
+            },
+            {
+              "partyId": "jobbik",
+              "partyName": "Jobbik",
+              "votes": 4200,
+              "percentage": 5.0
+            },
+            {
+              "partyId": "mszp-parbeszed",
+              "partyName": "MSZP-Párbeszéd",
+              "votes": 3500,
+              "percentage": 4.2
+            },
+            {
+              "partyId": "lmp",
+              "partyName": "LMP",
+              "votes": 2800,
+              "percentage": 3.3
+            },
+            {
+              "partyId": "momentum",
+              "partyName": "Momentum",
+              "votes": 2200,
+              "percentage": 2.6
+            }
+          ]
+        },
+        {
+          "settlementId": "pecs",
+          "settlementName": "Pécs",
+          "electionId": "2022-parliament",
+          "electionDate": "2022-04-03",
+          "electionType": "parliament",
+          "registeredVoters": 115700,
+          "totalVoters": 78000,
+          "participationRate": 67.4,
+          "leadVotes": 78000,
+          "validVotes": 76000,
+          "invalidVotes": 2000,
+          "partyResults": [
+            {
+              "partyId": "fidesz-kdnp",
+              "partyName": "Fidesz-KDNP",
+              "votes": 22900,
+              "percentage": 30.1
+            },
+            {
+              "partyId": "mi-hazank",
+              "partyName": "Mi Hazánk",
+              "votes": 3500,
+              "percentage": 4.6
+            },
+            {
+              "partyId": "dk",
+              "partyName": "DK",
+              "votes": 7200,
+              "percentage": 9.5
+            },
+            {
+              "partyId": "jobbik",
+              "partyName": "Jobbik",
+              "votes": 4100,
+              "percentage": 5.4
+            },
+            {
+              "partyId": "mszp-parbeszed",
+              "partyName": "MSZP-Párbeszéd",
+              "votes": 2850,
+              "percentage": 3.7
+            },
+            {
+              "partyId": "lmp",
+              "partyName": "LMP",
+              "votes": 2200,
+              "percentage": 2.9
+            },
+            {
+              "partyId": "momentum",
+              "partyName": "Momentum",
+              "votes": 1550,
+              "percentage": 2.0
+            }
+          ]
+        },
+        {
+          "settlementId": "miskolc",
+          "settlementName": "Miskolc",
+          "electionId": "2022-parliament",
+          "electionDate": "2022-04-03",
+          "electionType": "parliament",
+          "registeredVoters": 126000,
+          "totalVoters": 85000,
+          "participationRate": 67.5,
+          "leadVotes": 85000,
+          "validVotes": 83000,
+          "invalidVotes": 2000,
+          "partyResults": [
+            {
+              "partyId": "fidesz-kdnp",
+              "partyName": "Fidesz-KDNP",
+              "votes": 24900,
+              "percentage": 30.0
+            },
+            {
+              "partyId": "mi-hazank",
+              "partyName": "Mi Hazánk",
+              "votes": 6600,
+              "percentage": 7.9
+            },
+            {
+              "partyId": "dk",
+              "partyName": "DK",
+              "votes": 5000,
+              "percentage": 6.0
+            },
+            {
+              "partyId": "jobbik",
+              "partyName": "Jobbik",
+              "votes": 5100,
+              "percentage": 6.1
+            },
+            {
+              "partyId": "mszp-parbeszed",
+              "partyName": "MSZP-Párbeszéd",
+              "votes": 3500,
+              "percentage": 4.2
+            },
+            {
+              "partyId": "lmp",
+              "partyName": "LMP",
+              "votes": 2300,
+              "percentage": 2.8
+            },
+            {
+              "partyId": "momentum",
+              "partyName": "Momentum",
+              "votes": 2200,
+              "percentage": 2.7
+            }
+          ]
+        },
+        {
+          "settlementId": "gyor",
+          "settlementName": "Győr",
+          "electionId": "2022-parliament",
+          "electionDate": "2022-04-03",
+          "electionType": "parliament",
+          "registeredVoters": 99000,
+          "totalVoters": 67000,
+          "participationRate": 67.7,
+          "leadVotes": 67000,
+          "validVotes": 65000,
+          "invalidVotes": 2000,
+          "partyResults": [
+            {
+              "partyId": "fidesz-kdnp",
+              "partyName": "Fidesz-KDNP",
+              "votes": 19500,
+              "percentage": 30.0
+            },
+            {
+              "partyId": "mi-hazank",
+              "partyName": "Mi Hazánk",
+              "votes": 3900,
+              "percentage": 6.0
+            },
+            {
+              "partyId": "dk",
+              "partyName": "DK",
+              "votes": 4300,
+              "percentage": 6.6
+            },
+            {
+              "partyId": "jobbik",
+              "partyName": "Jobbik",
+              "votes": 3300,
+              "percentage": 5.1
+            },
+            {
+              "partyId": "mszp-parbeszed",
+              "partyName": "MSZP-Párbeszéd",
+              "votes": 2100,
+              "percentage": 3.2
+            },
+            {
+              "partyId": "lmp",
+              "partyName": "LMP",
+              "votes": 1800,
+              "percentage": 2.8
+            },
+            {
+              "partyId": "momentum",
+              "partyName": "Momentum",
+              "votes": 1400,
+              "percentage": 2.2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

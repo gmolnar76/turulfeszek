@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.04, 47.50]
+      },
+      "properties": {
+        "id": "budapest",
+        "name": "Budapest",
+        "population": 1685342,
+        "region": "Central Hungary",
+        "type": "capital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.63, 47.53]
+      },
+      "properties": {
+        "id": "debrecen",
+        "name": "Debrecen",
+        "population": 199858,
+        "region": "Northern Great Plain",
+        "type": "major_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.15, 46.25]
+      },
+      "properties": {
+        "id": "szeged",
+        "name": "Szeged",
+        "population": 158797,
+        "region": "Southern Great Plain",
+        "type": "major_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.23, 46.07]
+      },
+      "properties": {
+        "id": "pecs",
+        "name": "Pécs",
+        "population": 139330,
+        "region": "Southern Transdanubia",
+        "type": "major_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.79, 48.10]
+      },
+      "properties": {
+        "id": "miskolc",
+        "name": "Miskolc",
+        "population": 147533,
+        "region": "Northern Hungary",
+        "type": "major_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.64, 47.69]
+      },
+      "properties": {
+        "id": "gyor",
+        "name": "Győr",
+        "population": 127599,
+        "region": "Western Transdanubia",
+        "type": "major_city"
+      }
+    }
+  ]
+}

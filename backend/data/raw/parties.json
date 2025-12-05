@@ -1,0 +1,67 @@
+{
+  "parties": [
+    {
+      "id": "fidesz-kdnp",
+      "name": "Fidesz-KDNP",
+      "fullName": "Fidesz-Magyar Polgári Unió - Keresztény Demokrata Néppárt",
+      "color": "#0066CC",
+      "established": 1988,
+      "leaderName": "Orbán Viktor",
+      "ideology": "conservative, christian-democratic"
+    },
+    {
+      "id": "mi-hazank",
+      "name": "Mi Hazánk",
+      "fullName": "Mi Hazánk Mozgalom",
+      "color": "#FF0000",
+      "established": 2018,
+      "leaderName": "Toroczkai László",
+      "ideology": "nationalist, conservative"
+    },
+    {
+      "id": "jobbik",
+      "name": "Jobbik",
+      "fullName": "Jobbik Magyarországért Mozgalom",
+      "color": "#00CC00",
+      "established": 2003,
+      "leaderName": "Jakab Péter",
+      "ideology": "right-wing, conservative"
+    },
+    {
+      "id": "dk",
+      "name": "DK",
+      "fullName": "Demokratikus Koalíció",
+      "color": "#FF6600",
+      "established": 2010,
+      "leaderName": "Gyurcsány Ferenc",
+      "ideology": "liberal, center-left"
+    },
+    {
+      "id": "mszp-parbeszed",
+      "name": "MSZP-Párbeszéd",
+      "fullName": "Magyar Szocialista Párt - Párbeszéd",
+      "color": "#FF0066",
+      "established": 1989,
+      "leaderName": "Molnár Ildikó",
+      "ideology": "social-democratic, left"
+    },
+    {
+      "id": "lmp",
+      "name": "LMP",
+      "fullName": "Lehet Másképp - A Politikai Mozgalom",
+      "color": "#66FF00",
+      "established": 2009,
+      "leaderName": "Atkári Gábor",
+      "ideology": "green, progressive"
+    },
+    {
+      "id": "momentum",
+      "name": "Momentum",
+      "fullName": "Momentum Mozgalom",
+      "color": "#FF00FF",
+      "established": 2015,
+      "leaderName": "Fekete-Győr András",
+      "ideology": "centrist, progressive"
+    }
+  ]
+}

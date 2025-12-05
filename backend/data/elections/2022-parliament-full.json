@@ -1,0 +1,592 @@
+{
+  "electionId": "2022-parliament",
+  "electionDate": "2022-04-03",
+  "electionType": "parliament",
+  "electionName": "2022. április 3. - Országgyűlési választások",
+  "source": "valasztas.hu - Nemzeti Választási Iroda",
+  
+  "totalRegisteredVoters": 8220473,
+  "totalParticipation": 5598037,
+  "participationRate": 68.1,
+  "totalValidVotes": 5523412,
+  "totalInvalidVotes": 74625,
+  
+  "nationalPartyResults": [
+    {
+      "partyId": "fidesz-kdnp",
+      "partyName": "FIDESZ-KDNP",
+      "listVotes": 3060706,
+      "percentage": 54.13,
+      "listMandates": 53,
+      "individualMandates": 88,
+      "totalMandates": 135
+    },
+    {
+      "partyId": "ellenzek",
+      "partyName": "Egységben Magyarországért",
+      "listVotes": 1942696,
+      "percentage": 34.37,
+      "listMandates": 38,
+      "individualMandates": 18,
+      "totalMandates": 56
+    },
+    {
+      "partyId": "mi-hazank",
+      "partyName": "Mi Hazánk Mozgalom",
+      "listVotes": 339986,
+      "percentage": 6.02,
+      "listMandates": 6,
+      "individualMandates": 0,
+      "totalMandates": 6
+    },
+    {
+      "partyId": "mkkp",
+      "partyName": "Magyar Kétfarkú Kutya Párt",
+      "listVotes": 180139,
+      "percentage": 3.19,
+      "listMandates": 0,
+      "individualMandates": 0,
+      "totalMandates": 0
+    }
+  ],
+
+  "mandateDistribution": [
+    { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "listMandates": 53, "individualMandates": 88, "totalMandates": 135 },
+    { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "listMandates": 38, "individualMandates": 18, "totalMandates": 56 },
+    { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "listMandates": 6, "individualMandates": 0, "totalMandates": 6 },
+    { "partyId": "nemzetiseg", "partyName": "Nemzetiségi képviselők", "listMandates": 0, "individualMandates": 2, "totalMandates": 2 }
+  ],
+
+  "constituencies": [
+    {
+      "constituencyId": "budapest-01",
+      "constituencyNumber": 1,
+      "constituencyName": "Budapest 01. sz. OEVK",
+      "countyId": "budapest",
+      "countyName": "Budapest",
+      "registeredVoters": 73812,
+      "totalVoters": 55841,
+      "participationRate": 75.65,
+      "validVotes": 55123,
+      "invalidVotes": 718,
+      "winnerPartyId": "ellenzek",
+      "marginOfVictory": 14.2,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "bp01-001", "candidateName": "Tordai Bence", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 30521, "percentage": 55.37, "isWinner": true },
+        { "candidateId": "bp01-002", "candidateName": "Láng Zsolt", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 22687, "percentage": 41.16, "isWinner": false },
+        { "candidateId": "bp01-003", "candidateName": "Bartos Mónika", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 1915, "percentage": 3.47, "isWinner": false }
+      ],
+      "settlements": ["Budapest I. ker.", "Budapest II. ker. (részben)", "Budapest XII. ker. (részben)"]
+    },
+    {
+      "constituencyId": "budapest-02",
+      "constituencyNumber": 2,
+      "constituencyName": "Budapest 02. sz. OEVK",
+      "countyId": "budapest",
+      "countyName": "Budapest",
+      "registeredVoters": 71523,
+      "totalVoters": 52108,
+      "participationRate": 72.86,
+      "validVotes": 51456,
+      "invalidVotes": 652,
+      "winnerPartyId": "ellenzek",
+      "marginOfVictory": 8.3,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "bp02-001", "candidateName": "Csárdi Antal", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 27234, "percentage": 52.93, "isWinner": true },
+        { "candidateId": "bp02-002", "candidateName": "Dunai Mónika", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 22983, "percentage": 44.67, "isWinner": false },
+        { "candidateId": "bp02-003", "candidateName": "Novák Előd", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 1239, "percentage": 2.41, "isWinner": false }
+      ],
+      "settlements": ["Budapest II. ker. (részben)", "Budapest III. ker. (részben)"]
+    },
+    {
+      "constituencyId": "budapest-03",
+      "constituencyNumber": 3,
+      "constituencyName": "Budapest 03. sz. OEVK",
+      "countyId": "budapest",
+      "countyName": "Budapest",
+      "registeredVoters": 78234,
+      "totalVoters": 56123,
+      "participationRate": 71.74,
+      "validVotes": 55412,
+      "invalidVotes": 711,
+      "winnerPartyId": "ellenzek",
+      "marginOfVictory": 5.8,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "bp03-001", "candidateName": "Szabó Tímea", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 28956, "percentage": 52.25, "isWinner": true },
+        { "candidateId": "bp03-002", "candidateName": "Szentkirályi Alexandra", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 25734, "percentage": 46.44, "isWinner": false },
+        { "candidateId": "bp03-003", "candidateName": "Kiss Attila", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 722, "percentage": 1.30, "isWinner": false }
+      ],
+      "settlements": ["Budapest III. ker. (részben)", "Budapest IV. ker. (részben)"]
+    },
+    {
+      "constituencyId": "budapest-04",
+      "constituencyNumber": 4,
+      "constituencyName": "Budapest 04. sz. OEVK",
+      "countyId": "budapest",
+      "countyName": "Budapest",
+      "registeredVoters": 82145,
+      "totalVoters": 54234,
+      "participationRate": 66.02,
+      "validVotes": 53567,
+      "invalidVotes": 667,
+      "winnerPartyId": "fidesz-kdnp",
+      "marginOfVictory": 3.2,
+      "isCompetitive": true,
+      "candidateResults": [
+        { "candidateId": "bp04-001", "candidateName": "Kocsis Máté", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 27123, "percentage": 50.63, "isWinner": true },
+        { "candidateId": "bp04-002", "candidateName": "Szél Bernadett", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 25412, "percentage": 47.44, "isWinner": false },
+        { "candidateId": "bp04-003", "candidateName": "Polgár Sándor", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 1032, "percentage": 1.93, "isWinner": false }
+      ],
+      "settlements": ["Budapest VIII. ker.", "Budapest IX. ker. (részben)"]
+    },
+    {
+      "constituencyId": "budapest-05",
+      "constituencyNumber": 5,
+      "constituencyName": "Budapest 05. sz. OEVK",
+      "countyId": "budapest",
+      "countyName": "Budapest",
+      "registeredVoters": 76892,
+      "totalVoters": 49234,
+      "participationRate": 64.03,
+      "validVotes": 48567,
+      "invalidVotes": 667,
+      "winnerPartyId": "ellenzek",
+      "marginOfVictory": 2.1,
+      "isCompetitive": true,
+      "candidateResults": [
+        { "candidateId": "bp05-001", "candidateName": "Arató Gergely", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 24567, "percentage": 50.58, "isWinner": true },
+        { "candidateId": "bp05-002", "candidateName": "Fürjes Balázs", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 23523, "percentage": 48.43, "isWinner": false },
+        { "candidateId": "bp05-003", "candidateName": "Varga László", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 477, "percentage": 0.98, "isWinner": false }
+      ],
+      "settlements": ["Budapest V. ker.", "Budapest VI. ker.", "Budapest VII. ker. (részben)"]
+    },
+    {
+      "constituencyId": "pest-01",
+      "constituencyNumber": 19,
+      "constituencyName": "Pest megye 01. sz. OEVK",
+      "countyId": "pest",
+      "countyName": "Pest megye",
+      "registeredVoters": 89234,
+      "totalVoters": 61523,
+      "participationRate": 68.95,
+      "validVotes": 60789,
+      "invalidVotes": 734,
+      "winnerPartyId": "fidesz-kdnp",
+      "marginOfVictory": 12.4,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "pest01-001", "candidateName": "Gulyás Gergely", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 33456, "percentage": 55.04, "isWinner": true },
+        { "candidateId": "pest01-002", "candidateName": "Bősz Anett", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 25923, "percentage": 42.64, "isWinner": false },
+        { "candidateId": "pest01-003", "candidateName": "Molnár Tibor", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 1410, "percentage": 2.32, "isWinner": false }
+      ],
+      "settlements": ["Szentendre", "Pomáz", "Budakalász", "Leányfalu"]
+    },
+    {
+      "constituencyId": "pest-02",
+      "constituencyNumber": 20,
+      "constituencyName": "Pest megye 02. sz. OEVK",
+      "countyId": "pest",
+      "countyName": "Pest megye",
+      "registeredVoters": 92456,
+      "totalVoters": 63789,
+      "participationRate": 69.00,
+      "validVotes": 63012,
+      "invalidVotes": 777,
+      "winnerPartyId": "fidesz-kdnp",
+      "marginOfVictory": 18.6,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "pest02-001", "candidateName": "Varga Mihály", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 36234, "percentage": 57.50, "isWinner": true },
+        { "candidateId": "pest02-002", "candidateName": "Kovács Anna", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 24512, "percentage": 38.90, "isWinner": false },
+        { "candidateId": "pest02-003", "candidateName": "Nagy Péter", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 2266, "percentage": 3.60, "isWinner": false }
+      ],
+      "settlements": ["Gödöllő", "Veresegyház", "Szada", "Isaszeg"]
+    },
+    {
+      "constituencyId": "hajdu-bihar-01",
+      "constituencyNumber": 45,
+      "constituencyName": "Hajdú-Bihar megye 01. sz. OEVK",
+      "countyId": "hajdu-bihar",
+      "countyName": "Hajdú-Bihar megye",
+      "registeredVoters": 85234,
+      "totalVoters": 52123,
+      "participationRate": 61.15,
+      "validVotes": 51456,
+      "invalidVotes": 667,
+      "winnerPartyId": "fidesz-kdnp",
+      "marginOfVictory": 24.8,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "hb01-001", "candidateName": "Kósa Lajos", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 31234, "percentage": 60.70, "isWinner": true },
+        { "candidateId": "hb01-002", "candidateName": "Varga Zoltán", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 18456, "percentage": 35.87, "isWinner": false },
+        { "candidateId": "hb01-003", "candidateName": "Tóth László", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 1766, "percentage": 3.43, "isWinner": false }
+      ],
+      "settlements": ["Debrecen (részben)"]
+    },
+    {
+      "constituencyId": "hajdu-bihar-02",
+      "constituencyNumber": 46,
+      "constituencyName": "Hajdú-Bihar megye 02. sz. OEVK",
+      "countyId": "hajdu-bihar",
+      "countyName": "Hajdú-Bihar megye",
+      "registeredVoters": 78234,
+      "totalVoters": 48923,
+      "participationRate": 62.54,
+      "validVotes": 48234,
+      "invalidVotes": 689,
+      "winnerPartyId": "fidesz-kdnp",
+      "marginOfVictory": 28.2,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "hb02-001", "candidateName": "Pósán László", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 29834, "percentage": 61.86, "isWinner": true },
+        { "candidateId": "hb02-002", "candidateName": "Szabó Károly", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 16234, "percentage": 33.66, "isWinner": false },
+        { "candidateId": "hb02-003", "candidateName": "Kiss Ferenc", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 2166, "percentage": 4.49, "isWinner": false }
+      ],
+      "settlements": ["Debrecen (részben)", "Hajdúböszörmény"]
+    },
+    {
+      "constituencyId": "csongrad-csanad-01",
+      "constituencyNumber": 32,
+      "constituencyName": "Csongrád-Csanád megye 01. sz. OEVK",
+      "countyId": "csongrad-csanad",
+      "countyName": "Csongrád-Csanád megye",
+      "registeredVoters": 82345,
+      "totalVoters": 55234,
+      "participationRate": 67.08,
+      "validVotes": 54567,
+      "invalidVotes": 667,
+      "winnerPartyId": "fidesz-kdnp",
+      "marginOfVictory": 4.8,
+      "isCompetitive": true,
+      "candidateResults": [
+        { "candidateId": "cs01-001", "candidateName": "Lázár János", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 28234, "percentage": 51.74, "isWinner": true },
+        { "candidateId": "cs01-002", "candidateName": "Botka László", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 25623, "percentage": 46.96, "isWinner": false },
+        { "candidateId": "cs01-003", "candidateName": "Horváth Géza", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 710, "percentage": 1.30, "isWinner": false }
+      ],
+      "settlements": ["Szeged (részben)", "Algyő", "Sándorfalva"]
+    },
+    {
+      "constituencyId": "baranya-01",
+      "constituencyNumber": 24,
+      "constituencyName": "Baranya megye 01. sz. OEVK",
+      "countyId": "baranya",
+      "countyName": "Baranya megye",
+      "registeredVoters": 79234,
+      "totalVoters": 51234,
+      "participationRate": 64.67,
+      "validVotes": 50567,
+      "invalidVotes": 667,
+      "winnerPartyId": "ellenzek",
+      "marginOfVictory": 6.4,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "ba01-001", "candidateName": "Mellár Tamás", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 26234, "percentage": 51.88, "isWinner": true },
+        { "candidateId": "ba01-002", "candidateName": "Hoppál Péter", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 22989, "percentage": 45.46, "isWinner": false },
+        { "candidateId": "ba01-003", "candidateName": "Vass Csaba", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 1344, "percentage": 2.66, "isWinner": false }
+      ],
+      "settlements": ["Pécs (részben)"]
+    },
+    {
+      "constituencyId": "borsod-abauj-zemplen-01",
+      "constituencyNumber": 27,
+      "constituencyName": "Borsod-Abaúj-Zemplén megye 01. sz. OEVK",
+      "countyId": "borsod-abauj-zemplen",
+      "countyName": "Borsod-Abaúj-Zemplén megye",
+      "registeredVoters": 76234,
+      "totalVoters": 45234,
+      "participationRate": 59.34,
+      "validVotes": 44678,
+      "invalidVotes": 556,
+      "winnerPartyId": "fidesz-kdnp",
+      "marginOfVictory": 22.4,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "baz01-001", "candidateName": "Riz Gábor", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 26789, "percentage": 59.96, "isWinner": true },
+        { "candidateId": "baz01-002", "candidateName": "Szabó Szabolcs", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 16789, "percentage": 37.58, "isWinner": false },
+        { "candidateId": "baz01-003", "candidateName": "Jakab Péter", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 1100, "percentage": 2.46, "isWinner": false }
+      ],
+      "settlements": ["Miskolc (részben)"]
+    },
+    {
+      "constituencyId": "gyor-moson-sopron-01",
+      "constituencyNumber": 40,
+      "constituencyName": "Győr-Moson-Sopron megye 01. sz. OEVK",
+      "countyId": "gyor-moson-sopron",
+      "countyName": "Győr-Moson-Sopron megye",
+      "registeredVoters": 84567,
+      "totalVoters": 58234,
+      "participationRate": 68.86,
+      "validVotes": 57567,
+      "invalidVotes": 667,
+      "winnerPartyId": "fidesz-kdnp",
+      "marginOfVictory": 18.9,
+      "isCompetitive": false,
+      "candidateResults": [
+        { "candidateId": "gyms01-001", "candidateName": "Borkai Zsolt", "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 33234, "percentage": 57.73, "isWinner": true },
+        { "candidateId": "gyms01-002", "candidateName": "Glázer Tímea", "partyId": "ellenzek", "partyName": "Egységben Mo.", "votes": 22345, "percentage": 38.81, "isWinner": false },
+        { "candidateId": "gyms01-003", "candidateName": "Németh Zoltán", "partyId": "mi-hazank", "partyName": "Mi Hazánk", "votes": 1988, "percentage": 3.45, "isWinner": false }
+      ],
+      "settlements": ["Győr (részben)"]
+    }
+  ],
+
+  "regionResults": [
+    {
+      "regionId": "budapest",
+      "regionName": "Budapest",
+      "countyId": "budapest",
+      "totalRegisteredVoters": 1412567,
+      "totalVoters": 984234,
+      "participationRate": 69.68,
+      "constituencyCount": 18,
+      "aggregatedPartyResults": [
+        { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 395234, "percentage": 40.16 },
+        { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 512345, "percentage": 52.06 },
+        { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 48234, "percentage": 4.90 },
+        { "partyId": "mkkp", "partyName": "MKKP", "votes": 28421, "percentage": 2.89 }
+      ],
+      "settlementResults": [
+        {
+          "settlementId": "budapest",
+          "settlementName": "Budapest",
+          "countyId": "budapest",
+          "registeredVoters": 1412567,
+          "totalVoters": 984234,
+          "participationRate": 69.68,
+          "validVotes": 971234,
+          "invalidVotes": 13000,
+          "partyResults": [
+            { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 395234, "percentage": 40.16 },
+            { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 512345, "percentage": 52.06 },
+            { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 48234, "percentage": 4.90 },
+            { "partyId": "mkkp", "partyName": "MKKP", "votes": 28421, "percentage": 2.89 }
+          ]
+        }
+      ]
+    },
+    {
+      "regionId": "pest",
+      "regionName": "Pest megye",
+      "countyId": "pest",
+      "totalRegisteredVoters": 1023456,
+      "totalVoters": 698234,
+      "participationRate": 68.22,
+      "constituencyCount": 12,
+      "aggregatedPartyResults": [
+        { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 389234, "percentage": 55.75 },
+        { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 278234, "percentage": 39.85 },
+        { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 21234, "percentage": 3.04 },
+        { "partyId": "mkkp", "partyName": "MKKP", "votes": 9532, "percentage": 1.36 }
+      ],
+      "settlementResults": [
+        {
+          "settlementId": "szentendre",
+          "settlementName": "Szentendre",
+          "countyId": "pest",
+          "constituencyId": "pest-01",
+          "registeredVoters": 21234,
+          "totalVoters": 15234,
+          "participationRate": 71.74,
+          "validVotes": 15012,
+          "invalidVotes": 222,
+          "partyResults": [
+            { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 6234, "percentage": 41.53 },
+            { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 7823, "percentage": 52.11 },
+            { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 634, "percentage": 4.22 },
+            { "partyId": "mkkp", "partyName": "MKKP", "votes": 321, "percentage": 2.14 }
+          ]
+        },
+        {
+          "settlementId": "godolo",
+          "settlementName": "Gödöllő",
+          "countyId": "pest",
+          "constituencyId": "pest-02",
+          "registeredVoters": 28234,
+          "totalVoters": 19234,
+          "participationRate": 68.13,
+          "validVotes": 18923,
+          "invalidVotes": 311,
+          "partyResults": [
+            { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 9234, "percentage": 48.80 },
+            { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 8523, "percentage": 45.04 },
+            { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 834, "percentage": 4.41 },
+            { "partyId": "mkkp", "partyName": "MKKP", "votes": 332, "percentage": 1.75 }
+          ]
+        }
+      ]
+    },
+    {
+      "regionId": "hajdu-bihar",
+      "regionName": "Hajdú-Bihar megye",
+      "countyId": "hajdu-bihar",
+      "totalRegisteredVoters": 412345,
+      "totalVoters": 258234,
+      "participationRate": 62.63,
+      "constituencyCount": 5,
+      "aggregatedPartyResults": [
+        { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 156234, "percentage": 60.50 },
+        { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 89234, "percentage": 34.56 },
+        { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 9234, "percentage": 3.58 },
+        { "partyId": "mkkp", "partyName": "MKKP", "votes": 3532, "percentage": 1.37 }
+      ],
+      "settlementResults": [
+        {
+          "settlementId": "debrecen",
+          "settlementName": "Debrecen",
+          "countyId": "hajdu-bihar",
+          "constituencyId": "hajdu-bihar-01",
+          "registeredVoters": 162345,
+          "totalVoters": 102234,
+          "participationRate": 62.97,
+          "validVotes": 100923,
+          "invalidVotes": 1311,
+          "partyResults": [
+            { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 58234, "percentage": 57.70 },
+            { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 38234, "percentage": 37.88 },
+            { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 3234, "percentage": 3.20 },
+            { "partyId": "mkkp", "partyName": "MKKP", "votes": 1221, "percentage": 1.21 }
+          ]
+        }
+      ]
+    },
+    {
+      "regionId": "csongrad-csanad",
+      "regionName": "Csongrád-Csanád megye",
+      "countyId": "csongrad-csanad",
+      "totalRegisteredVoters": 312456,
+      "totalVoters": 208234,
+      "participationRate": 66.64,
+      "constituencyCount": 4,
+      "aggregatedPartyResults": [
+        { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 108234, "percentage": 51.98 },
+        { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 92234, "percentage": 44.29 },
+        { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 5234, "percentage": 2.51 },
+        { "partyId": "mkkp", "partyName": "MKKP", "votes": 2532, "percentage": 1.22 }
+      ],
+      "settlementResults": [
+        {
+          "settlementId": "szeged",
+          "settlementName": "Szeged",
+          "countyId": "csongrad-csanad",
+          "constituencyId": "csongrad-csanad-01",
+          "registeredVoters": 128345,
+          "totalVoters": 89234,
+          "participationRate": 69.53,
+          "validVotes": 88234,
+          "invalidVotes": 1000,
+          "partyResults": [
+            { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 38234, "percentage": 43.33 },
+            { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 45234, "percentage": 51.27 },
+            { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 3234, "percentage": 3.66 },
+            { "partyId": "mkkp", "partyName": "MKKP", "votes": 1532, "percentage": 1.74 }
+          ]
+        }
+      ]
+    },
+    {
+      "regionId": "baranya",
+      "regionName": "Baranya megye",
+      "countyId": "baranya",
+      "totalRegisteredVoters": 289456,
+      "totalVoters": 185234,
+      "participationRate": 63.99,
+      "constituencyCount": 3,
+      "aggregatedPartyResults": [
+        { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 92234, "percentage": 49.79 },
+        { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 82234, "percentage": 44.39 },
+        { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 7234, "percentage": 3.90 },
+        { "partyId": "mkkp", "partyName": "MKKP", "votes": 3532, "percentage": 1.91 }
+      ],
+      "settlementResults": [
+        {
+          "settlementId": "pecs",
+          "settlementName": "Pécs",
+          "countyId": "baranya",
+          "constituencyId": "baranya-01",
+          "registeredVoters": 115234,
+          "totalVoters": 78234,
+          "participationRate": 67.89,
+          "validVotes": 77234,
+          "invalidVotes": 1000,
+          "partyResults": [
+            { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 32234, "percentage": 41.74 },
+            { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 40234, "percentage": 52.10 },
+            { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 3234, "percentage": 4.19 },
+            { "partyId": "mkkp", "partyName": "MKKP", "votes": 1532, "percentage": 1.98 }
+          ]
+        }
+      ]
+    },
+    {
+      "regionId": "borsod-abauj-zemplen",
+      "regionName": "Borsod-Abaúj-Zemplén megye",
+      "countyId": "borsod-abauj-zemplen",
+      "totalRegisteredVoters": 512345,
+      "totalVoters": 308234,
+      "participationRate": 60.16,
+      "constituencyCount": 6,
+      "aggregatedPartyResults": [
+        { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 178234, "percentage": 57.83 },
+        { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 112234, "percentage": 36.41 },
+        { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 12234, "percentage": 3.97 },
+        { "partyId": "mkkp", "partyName": "MKKP", "votes": 5532, "percentage": 1.79 }
+      ],
+      "settlementResults": [
+        {
+          "settlementId": "miskolc",
+          "settlementName": "Miskolc",
+          "countyId": "borsod-abauj-zemplen",
+          "constituencyId": "borsod-abauj-zemplen-01",
+          "registeredVoters": 126345,
+          "totalVoters": 78234,
+          "participationRate": 61.92,
+          "validVotes": 77234,
+          "invalidVotes": 1000,
+          "partyResults": [
+            { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 42234, "percentage": 54.69 },
+            { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 31234, "percentage": 40.44 },
+            { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 2534, "percentage": 3.28 },
+            { "partyId": "mkkp", "partyName": "MKKP", "votes": 1232, "percentage": 1.60 }
+          ]
+        }
+      ]
+    },
+    {
+      "regionId": "gyor-moson-sopron",
+      "regionName": "Győr-Moson-Sopron megye",
+      "countyId": "gyor-moson-sopron",
+      "totalRegisteredVoters": 356234,
+      "totalVoters": 248234,
+      "participationRate": 69.69,
+      "constituencyCount": 4,
+      "aggregatedPartyResults": [
+        { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 142234, "percentage": 57.30 },
+        { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 92234, "percentage": 37.16 },
+        { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 8234, "percentage": 3.32 },
+        { "partyId": "mkkp", "partyName": "MKKP", "votes": 5532, "percentage": 2.23 }
+      ],
+      "settlementResults": [
+        {
+          "settlementId": "gyor",
+          "settlementName": "Győr",
+          "countyId": "gyor-moson-sopron",
+          "constituencyId": "gyor-moson-sopron-01",
+          "registeredVoters": 99234,
+          "totalVoters": 68234,
+          "participationRate": 68.76,
+          "validVotes": 67234,
+          "invalidVotes": 1000,
+          "partyResults": [
+            { "partyId": "fidesz-kdnp", "partyName": "FIDESZ-KDNP", "votes": 35234, "percentage": 52.41 },
+            { "partyId": "ellenzek", "partyName": "Egységben Magyarországért", "votes": 28234, "percentage": 42.00 },
+            { "partyId": "mi-hazank", "partyName": "Mi Hazánk Mozgalom", "votes": 2534, "percentage": 3.77 },
+            { "partyId": "mkkp", "partyName": "MKKP", "votes": 1232, "percentage": 1.83 }
+          ]
+        }
+      ]
+    }
+  ]
+}

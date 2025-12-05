@@ -1,0 +1,45 @@
+A struktúrát egy webes informatikai felületen és prezentációban is kell megjeleníteni , a struktúra egy központi módszertant ábrázoljon diagramszerűen. miNDEN VÁROSNAk vagy falunak lenne egy ilyen diagram rendszere, ami visszajelezné az aktivitás szintjét. Legyen magyarország térkép a kárpátmedencére levetítve. 
+A rendszernek kezelni kell a tagságot olyan azonosítással amely az adatbázisában nem tartalmazza a felhasználó nevét és címét. Ha sérülne vagy feltörnék az adatbázist, akkor a felhasználók személyes adatai maradjanak biztonságban. Ugyanakor a felhasználó azonosítása egy erősen titkosított esetlegesen blockchain 
+alapon történhetne úgy hogy mindenkinek lenne egy wallete, ami a megszerzett tudását, kvalifikációit rangját tartalmazná.
+A közösség szervezeti felépítésének rendszerét?
+
+Fővárosi megújuló fő minta.
+Minden módosítással automatikusan minden alminta ugyanúgy módosul.
+Fő cél a hasonló gondolkodású választók kultúrközeggé kovácsolása.
+
+Első lépés:
+Megszólítás!
+Felelősségvállalás személyes részvétel nemzeti ünnepeken a helyi szervezet megjelenésével.
+A választási statisztikákból megfeleltetve lemérni, hány ember érintett az azonos értékrend mellett.
+Mekkora volt a pl a Mi Hazánk válalsztási eredménye településenként.
+
+A felnőttek megszólítása úgy hogy rajtuk keresztül ha van, akkor  a családjuk, gyermekük is 
+részt vegyen a közösségi eseményen.
+
+Pl 1,
+Nemzeti ünnepek.
+  48-as Márciusi események. Zászlófelvonás. Tisztelgés, megemlékezés. Tanulmányok az eseményekről gyerekek
+számára videó előadások formájában előadva fiatal előadókkal könnyed formában. Lokális és globális logikát is bemutatva.
+Hasonló módszerekkel az állami és a szakrális ünnepeket is bevonva. 
+Fontos, hogy az események formálják a közösséget. 
+
+A közösségszervezés nyinvánuljon meg a gyermekek viseletében is, láttatva, hogy ha egy osztályba vagy iskolába járva hasonló értékrenden vannak. Legyen divat Magyarnak lenni.
+
+Családi szinten követendő mintázatok.
+A gyermekek digitális védelme, testi-lelki képzése. 
+
+Pl: 
+- legalább egy hangszer mesterségének megtanítása ,valamint egy 
+harcművészeti képzésre való beiratása. Erre alpulhat helyi nyári edző és kultúr kézműves táborok indítása.
+- Zártkörű Ifjúsági helység bérlése, beléptetőrendszerrel, ahova felsősök, gimisek, iskola után elmehetnek enni, inni, tanulni ismerkedni. Ennek az anyagi támogatása városonként a szavazóbázisból vagy állami támogatásból is finanszírozgató lehet.
+
+Fontos, hogy a gyerekek ismerjék meg egymást és egy értékrendi kollektíva érzése foganjon meg bennük.
+
+Túrák, szakrális földrajztúrák szervezése. 
+
+Családi, közösségi piknikek a közeli zöldövezetben.
+
+Kertvárosban, lakótelepen közeli szalonnasütő helyek rendszeres használata és közösségi terek fejlesztése.
+Családi házas környezetben közös kerti, grillezés alkalmanként családosok részére, lehetőleg hasonló korosztályú
+gyermekekkel. A részvételt egy nyílvántartó rendszernek is segíteni e kell, hogy hatékonyabb legyen a korosztályok 
+hangolása.
