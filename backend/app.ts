@@ -7,6 +7,7 @@ import express, { Express } from 'express';
 import cors from 'cors';
 import path from 'path';
 import electionRoutes, { initializeElectionData } from './routes/elections.routes';
+import votingRoutes from './routes/voting.routes';
 
 const app: Express = express();
 const PORT = process.env.PORT || 3000;
@@ -34,6 +35,7 @@ initializeElectionData();
 
 // API routes
 app.use('/api/elections', electionRoutes);
+app.use('/api/votes', votingRoutes);
 
 // Health check
 app.get('/api/health', (req, res) => {

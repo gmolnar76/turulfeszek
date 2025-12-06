@@ -3,10 +3,11 @@
   import RepresentativeChanceCalculator from './RepresentativeChanceCalculator.svelte';
   import GenerationalReachPanel from './GenerationalReachPanel.svelte';
   import InviteSystem from './InviteSystem.svelte';
+  import VotingPanel from './VotingPanel.svelte';
   import type { RepresentativeDashboardData } from '../types/representative.types';
 
   // Aktív nézet kezelés
-  type ViewType = 'overview' | 'chance' | 'generation' | 'invite';
+  type ViewType = 'overview' | 'chance' | 'generation' | 'invite' | 'voting';
   let activeView: ViewType = 'overview';
 
   // Dashboard adatok
@@ -167,6 +168,13 @@
     >
       📨 Meghívó rendszer
     </button>
+    <button 
+      class="nav-btn" 
+      class:active={activeView === 'voting'}
+      on:click={() => activeView = 'voting'}
+    >
+      🗳️ Szavazások
+    </button>
   </nav>
 
   <!-- Tartalom -->
@@ -301,6 +309,13 @@
 
     {:else if activeView === 'invite'}
       <InviteSystem />
+
+    {:else if activeView === 'voting'}
+      <VotingPanel 
+        constituencyId={selectedConstituencyId}
+        constituencyName={dashboardData?.constituencyName || constituencies.find(c => c.id === selectedConstituencyId)?.name || ''}
+        isRepresentative={true}
+      />
     {/if}
   </div>
 </div>
