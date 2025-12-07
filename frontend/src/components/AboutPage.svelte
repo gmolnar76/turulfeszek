@@ -822,10 +822,139 @@
     </div>
   </section>
 
+  <!-- Blockchain előnyök szekció -->
+  <section id="blockchain" class="about-section blockchain-section">
+    <div class="section-header">
+      <span class="section-number">08</span>
+      <h2>Blockchain technológia</h2>
+      <p>Miért használunk decentralizált technológiát?</p>
+    </div>
+
+    <div class="blockchain-content">
+      <div class="blockchain-intro">
+        <p>A blockchain nem divat, hanem <strong>szükségszerűség</strong> egy valódi közösségi platformnál. 
+        Olyan garanciákat nyújt, amelyeket központi rendszerek nem tudnak biztosítani.</p>
+      </div>
+
+      <div class="blockchain-benefits">
+        <div class="blockchain-card">
+          <div class="blockchain-icon">🔐</div>
+          <h3>Hamisíthatatlan szavazatok</h3>
+          <p>Minden szavazat kriptográfiailag védett. Senki - még az adminisztrátorok sem - tudják megváltoztatni az eredményeket utólag.</p>
+        </div>
+
+        <div class="blockchain-card">
+          <div class="blockchain-icon">📜</div>
+          <h3>Örök bizonyíték</h3>
+          <p>A jelvények és elért eredmények Soul-Bound Token (SBT) formájában örökre megmaradnak - nem törölhetők, nem hamisíthatók.</p>
+        </div>
+
+        <div class="blockchain-card">
+          <div class="blockchain-icon">🔍</div>
+          <h3>Átlátható működés</h3>
+          <p>Bárki ellenőrizheti a szavazások eredményeit és a jelvények kiadását. Nincs "fekete doboz".</p>
+        </div>
+
+        <div class="blockchain-card">
+          <div class="blockchain-icon">🏛️</div>
+          <h3>Nincs központi hatalom</h3>
+          <p>A rendszert nem egy cég vagy személy irányítja. A közösség adatai a közösség tulajdonában maradnak.</p>
+        </div>
+
+        <div class="blockchain-card">
+          <div class="blockchain-icon">🛡️</div>
+          <h3>Manipulációvédelem</h3>
+          <p>Külső támadók nem tudják módosítani az adatokat. A rendszer ellenáll a cenzúrának és beavatkozásnak.</p>
+        </div>
+
+        <div class="blockchain-card">
+          <div class="blockchain-icon">⏰</div>
+          <h3>Időbélyegzés</h3>
+          <p>Minden esemény pontos időpontja bizonyíthatóan rögzítve van - utólagos dátummódosítás lehetetlen.</p>
+        </div>
+      </div>
+
+      <div class="blockchain-note">
+        <span class="note-emoji">💡</span>
+        <p><strong>Fontos:</strong> A blockchain háttérben működik - a felhasználóknak nem kell érteniük hozzá. 
+        A Wallet app egyszerűen kezelhető, miközben a háttérben a legmodernebb biztonsági technológia védi az adatokat.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Anonimitás szekció -->
+  <section id="anonymity" class="about-section anonymity-section">
+    <div class="section-header">
+      <span class="section-number">09</span>
+      <h2>Anonimitás és adatvédelem</h2>
+      <p>Fantázianevek és védett identitás</p>
+    </div>
+
+    <div class="anonymity-content">
+      <div class="anonymity-intro">
+        <p>A Turul Wallet <strong>nem használ valódi neveket</strong>. Minden felhasználó egyedi fantázianévvel 
+        azonosítja magát, amely a város rövidítését és az évtized két számjegyét tartalmazza.</p>
+      </div>
+
+      <div class="identity-example">
+        <div class="identity-card">
+          <div class="identity-avatar">🦅</div>
+          <div class="identity-info">
+            <span class="identity-name">TurulSas_Bp_85</span>
+            <span class="identity-desc">Fantázianév + Város röv. + Évtized</span>
+          </div>
+        </div>
+        <div class="identity-benefits-list">
+          <div class="identity-benefit">
+            <span>✓</span> Nem lehet összekapcsolni más platformokkal
+          </div>
+          <div class="identity-benefit">
+            <span>✓</span> A közösségen belül felismerhetők vagyunk
+          </div>
+          <div class="identity-benefit">
+            <span>✓</span> A közösségen kívül anonimak maradunk
+          </div>
+        </div>
+      </div>
+
+      <div class="anonymity-features">
+        <div class="anonymity-card">
+          <div class="anonymity-icon">🎭</div>
+          <h3>Fantázianév rendszer</h3>
+          <p>Egyedi, kreatív nevek választhatók - a platform segít generálni, ha kell.</p>
+        </div>
+
+        <div class="anonymity-card">
+          <div class="anonymity-icon">📍</div>
+          <h3>Város rövidítés</h3>
+          <p>Pl. Bp, Kecs, Szeg - körzeti hovatartozás látható, pontos cím soha.</p>
+        </div>
+
+        <div class="anonymity-card">
+          <div class="anonymity-icon">📅</div>
+          <h3>Évtized</h3>
+          <p>Csak két számjegy (pl. 85, 92) - generációs besoroláshoz elegendő.</p>
+        </div>
+
+        <div class="anonymity-card">
+          <div class="anonymity-icon">🔒</div>
+          <h3>Nincs valódi név</h3>
+          <p>Sem keresztnév, sem vezetéknév nem kerül tárolásra a rendszerben.</p>
+        </div>
+      </div>
+
+      <div class="anonymity-note">
+        <span class="note-emoji">🤝</span>
+        <p>A közösség tagjai <strong>személyesen ismerik egymást</strong> - a fantázianév csak a digitális térben azonosít. 
+        A valódi kapcsolatok offline születnek, az app csak segít koordinálni.</p>
+      </div>
+    </div>
+  </section>
+
   <!-- Lelki élet szekció -->
   <section id="spiritual" class="about-section spiritual-section">
     <div class="section-header">
-      <span class="section-number">08</span>
+      <span class="section-number">10</span>
       <h2>Lelki élet és erkölcsi nevelés</h2>
       <p>Diszkrét, finoman integrált spirituális tartalmak</p>
     </div>
@@ -915,10 +1044,97 @@
     </div>
   </section>
 
+  <!-- Turul Wallet szekció -->
+  <section id="wallet" class="about-section wallet-section">
+    <div class="section-header">
+      <span class="section-number">11</span>
+      <h2>Turul Wallet alkalmazás</h2>
+      <p>A közösségi élet digitális társa</p>
+    </div>
+
+    <div class="wallet-showcase">
+      <div class="wallet-intro">
+        <p>A <strong>Turul Wallet</strong> mobil alkalmazás a közösségi részvétel minden eszközét egy helyen biztosítja. 
+        Fantázianévvel, jelvényekkel és blockchain-alapú szavazással építsd a közösségedet!</p>
+      </div>
+
+      <div class="wallet-screens">
+        <div class="wallet-screen-card">
+          <div class="screen-image">
+            <img src="/IMG/1-Wallet.jpg" alt="Wallet főképernyő" />
+          </div>
+          <div class="screen-info">
+            <h3>🏠 Főképernyő</h3>
+            <p>Közösségi pontok, körzeti rang, jelvények és meghívók áttekintése egyetlen pillantással.</p>
+          </div>
+        </div>
+
+        <div class="wallet-screen-card">
+          <div class="screen-image">
+            <img src="/IMG/2-piac.jpg" alt="Piactér" />
+          </div>
+          <div class="screen-info">
+            <h3>🛒 Piactér</h3>
+            <p>Helyi termelők, kézművesek, kertgazdálkodók termékei. Gyümölcs, zöldség, méz, házi készítmények.</p>
+          </div>
+        </div>
+
+        <div class="wallet-screen-card">
+          <div class="screen-image">
+            <img src="/IMG/3-jelvények.jpg" alt="Jelvények" />
+          </div>
+          <div class="screen-info">
+            <h3>🎖️ Jelvények</h3>
+            <p>Soulbound Token (SBT) jelvények a közösségi aktivitásért. Nem átruházhatók, örökre a tieid.</p>
+          </div>
+        </div>
+
+        <div class="wallet-screen-card">
+          <div class="screen-image">
+            <img src="/IMG/4-szavaz.jpg" alt="Szavazás" />
+          </div>
+          <div class="screen-info">
+            <h3>🗳️ Szavazás</h3>
+            <p>Blockchain-alapú, manipulálhatatlan szavazások. Titkos és nyilvános szavazási lehetőségek.</p>
+          </div>
+        </div>
+
+        <div class="wallet-screen-card">
+          <div class="screen-image">
+            <img src="/IMG/5-profil.jpg" alt="Profil" />
+          </div>
+          <div class="screen-info">
+            <h3>👤 Profil</h3>
+            <p>Fantázianév, család kezelése, meghívó rendszer és beállítások egy helyen.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="wallet-features">
+        <div class="wallet-feature">
+          <span class="feature-icon">📱</span>
+          <span>iOS és Android</span>
+        </div>
+        <div class="wallet-feature">
+          <span class="feature-icon">🔐</span>
+          <span>Titkosított adatok</span>
+        </div>
+        <div class="wallet-feature">
+          <span class="feature-icon">🌐</span>
+          <span>Offline működés</span>
+        </div>
+        <div class="wallet-feature">
+          <span class="feature-icon">🎭</span>
+          <span>Anonim identitás</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Közösségi ötletek szekció -->
   <section id="ideas" class="about-section ideas-section">
     <div class="section-header">
-      <span class="section-number">09</span>
+      <span class="section-number">12</span>
       <h2>Közösségi ötletek</h2>
       <p>Mintaötletek a közösség aktivitásaihoz</p>
     </div>
@@ -1042,8 +1258,8 @@
   <!-- Összegzés szekció -->
   <section id="summary" class="about-section summary-section">
     <div class="summary-content">
-      <h2>A Turul Platform nem "politikai app"</h2>
-      <p class="summary-subtitle">Ez egy <strong>közösségépítő eszközrendszer</strong></p>
+      <h2>Organikus közösségszervező platform</h2>
+      <p class="summary-subtitle">Családok, generációk és helyi közösségek összekapcsolása</p>
       
       <div class="summary-goals">
         <div class="goal-item">
@@ -1055,8 +1271,8 @@
           <p>Képessé tenni a <strong>generációkat</strong> az együttműködésre</p>
         </div>
         <div class="goal-item">
-          <span class="goal-icon">🏛️</span>
-          <p>Képessé tenni a <strong>képviselőket</strong> a valós szolgálatra</p>
+          <span class="goal-icon">🏘️</span>
+          <p>Képessé tenni a <strong>közösségeket</strong> az önszerveződésre</p>
         </div>
         <div class="goal-item">
           <span class="goal-icon">🌾</span>
@@ -1647,6 +1863,232 @@
     margin: 0;
   }
 
+  /* Blockchain Section */
+  .blockchain-section {
+    background: linear-gradient(135deg, #1E3A5F 0%, #2D4A6F 100%);
+    color: white;
+  }
+
+  .blockchain-section .section-header h2,
+  .blockchain-section .section-header p {
+    color: white;
+  }
+
+  .blockchain-content {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .blockchain-intro {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .blockchain-intro p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: rgba(255, 255, 255, 0.9);
+  }
+
+  .blockchain-benefits {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+
+  .blockchain-card {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 24px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .blockchain-icon {
+    font-size: 40px;
+    margin-bottom: 16px;
+  }
+
+  .blockchain-card h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 12px 0;
+    color: white;
+  }
+
+  .blockchain-card p {
+    font-size: 13px;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.8);
+    margin: 0;
+  }
+
+  .blockchain-note {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .blockchain-note .note-emoji {
+    font-size: 28px;
+    flex-shrink: 0;
+  }
+
+  .blockchain-note p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.9);
+    margin: 0;
+  }
+
+  /* Anonymity Section */
+  .anonymity-section {
+    background: linear-gradient(135deg, #F0FDF4 0%, #DCFCE7 100%);
+  }
+
+  .anonymity-content {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .anonymity-intro {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .anonymity-intro p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #374151;
+  }
+
+  .identity-example {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+
+  .identity-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    background: white;
+    border-radius: 16px;
+    padding: 24px 32px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border: 2px solid #10B981;
+  }
+
+  .identity-avatar {
+    font-size: 48px;
+  }
+
+  .identity-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .identity-name {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1F2937;
+    font-family: 'Courier New', monospace;
+  }
+
+  .identity-desc {
+    font-size: 12px;
+    color: #6B7280;
+  }
+
+  .identity-benefits-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .identity-benefit {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color: #374151;
+  }
+
+  .identity-benefit span {
+    color: #10B981;
+    font-weight: 700;
+  }
+
+  .anonymity-features {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+
+  .anonymity-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  }
+
+  .anonymity-icon {
+    font-size: 32px;
+    margin-bottom: 12px;
+  }
+
+  .anonymity-card h3 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1F2937;
+    margin: 0 0 8px 0;
+  }
+
+  .anonymity-card p {
+    font-size: 13px;
+    line-height: 1.5;
+    color: #6B7280;
+    margin: 0;
+  }
+
+  .anonymity-note {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    max-width: 700px;
+    margin: 0 auto;
+    border: 1px solid #D1FAE5;
+  }
+
+  .anonymity-note .note-emoji {
+    font-size: 28px;
+    flex-shrink: 0;
+  }
+
+  .anonymity-note p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #374151;
+    margin: 0;
+  }
+
   /* Spiritual Section */
   .spiritual-section {
     background: linear-gradient(135deg, #FFFBEB 0%, #FEF3C7 100%);
@@ -1901,6 +2343,8 @@
     background: linear-gradient(135deg, #8B5CF6 0%, #7C3AED 100%);
     color: white;
     text-align: center;
+    margin-bottom: 0;
+    border-radius: 16px 16px 0 0;
   }
 
   .summary-content h2 {
@@ -1999,6 +2443,14 @@
     .ideas-showcase {
       grid-template-columns: repeat(2, 1fr);
     }
+
+    .blockchain-benefits {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .anonymity-features {
+      grid-template-columns: repeat(2, 1fr);
+    }
   }
 
   @media (max-width: 640px) {
@@ -2040,6 +2492,155 @@
 
     .philosophy-tracks {
       flex-direction: column;
+    }
+
+    .blockchain-benefits {
+      grid-template-columns: 1fr;
+    }
+
+    .anonymity-features {
+      grid-template-columns: 1fr;
+    }
+
+    .identity-example {
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .wallet-screens {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* Wallet Section */
+  .wallet-section {
+    background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+    color: white;
+  }
+
+  .wallet-section .section-header h2,
+  .wallet-section .section-header p {
+    color: white;
+  }
+
+  .wallet-section .section-header p {
+    color: #9CA3AF;
+  }
+
+  .wallet-showcase {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .wallet-intro {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .wallet-intro p {
+    font-size: 16px;
+    color: #D1D5DB;
+    line-height: 1.8;
+    margin: 0;
+  }
+
+  .wallet-screens {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+  }
+
+  .wallet-screen-card {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .wallet-screen-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+  }
+
+  .screen-image {
+    width: 100%;
+    aspect-ratio: 9/16;
+    overflow: hidden;
+  }
+
+  .screen-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+  }
+
+  .screen-info {
+    padding: 16px;
+  }
+
+  .screen-info h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    margin: 0 0 8px 0;
+  }
+
+  .screen-info p {
+    font-size: 13px;
+    color: #9CA3AF;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .wallet-features {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 24px;
+    padding-top: 16px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .wallet-feature {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(139, 92, 246, 0.2);
+    padding: 10px 20px;
+    border-radius: 24px;
+    color: #A78BFA;
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .feature-icon {
+    font-size: 18px;
+  }
+
+  @media (max-width: 1200px) {
+    .wallet-screens {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .wallet-screens {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .wallet-screens {
+      grid-template-columns: 1fr;
+    }
+
+    .wallet-features {
+      flex-direction: column;
+      align-items: center;
     }
   }
 </style>

@@ -307,10 +307,17 @@
 
   .about-section {
     grid-column: 1 / -1;
-    overflow: auto;
+    overflow: visible;
     background: #f3f4f6;
     border-radius: 8px;
     padding: 24px;
+  }
+
+  /* About section needs different container sizing */
+  .dashboard-container:has(.about-section) {
+    height: auto;
+    min-height: auto;
+    display: block;
   }
 
   .map-section {
