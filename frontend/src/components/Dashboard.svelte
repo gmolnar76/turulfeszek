@@ -7,11 +7,13 @@
   import UserProfile from './UserProfile.svelte';
   import IdeasPage from './IdeasPage.svelte';
   import RepresentativeDashboard from './RepresentativeDashboard.svelte';
+  import MarketplaceDashboard from './MarketplaceDashboard.svelte';
+  import AboutPage from './AboutPage.svelte';
   import { loadElectionData, loadAvailableElections, selectedElection } from '../stores/electionStore';
   import { onMount } from 'svelte';
 
   let selectedElectionId = '2022-parliament';
-  let tabView: 'activity' | 'election-analysis' | 'representative' | 'community' | 'ideas' | 'profile' = 'activity';
+  let tabView: 'about' | 'activity' | 'election-analysis' | 'representative' | 'community' | 'ideas' | 'marketplace' | 'profile' = 'about';
 
   selectedElection.subscribe(v => {
     selectedElectionId = v;
@@ -53,6 +55,13 @@
   <div class="tab-buttons">
     <button
       class="tab-btn"
+      class:active={tabView === 'about'}
+      on:click={() => (tabView = 'about')}
+    >
+      🦅 Bemutatkozás
+    </button>
+    <button
+      class="tab-btn"
       class:active={tabView === 'activity'}
       on:click={() => (tabView = 'activity')}
     >
@@ -88,6 +97,13 @@
     </button>
     <button
       class="tab-btn"
+      class:active={tabView === 'marketplace'}
+      on:click={() => (tabView = 'marketplace')}
+    >
+      🛒 Piactér
+    </button>
+    <button
+      class="tab-btn"
       class:active={tabView === 'profile'}
       on:click={() => (tabView = 'profile')}
     >
@@ -96,7 +112,11 @@
   </div>
 
   <div class="dashboard-container">
-    {#if tabView === 'activity'}
+    {#if tabView === 'about'}
+      <div class="about-section">
+        <AboutPage />
+      </div>
+    {:else if tabView === 'activity'}
       <div class="map-section">
         <HungaryMap />
       </div>
@@ -125,6 +145,10 @@
     {:else if tabView === 'ideas'}
       <div class="ideas-section">
         <IdeasPage />
+      </div>
+    {:else if tabView === 'marketplace'}
+      <div class="marketplace-section">
+        <MarketplaceDashboard />
       </div>
     {:else if tabView === 'profile'}
       <div class="profile-section">
@@ -272,6 +296,21 @@
     overflow: auto;
     background: white;
     border-radius: 8px;
+  }
+
+  .marketplace-section {
+    grid-column: 1 / -1;
+    overflow: auto;
+    background: #f3f4f6;
+    border-radius: 8px;
+  }
+
+  .about-section {
+    grid-column: 1 / -1;
+    overflow: auto;
+    background: #f3f4f6;
+    border-radius: 8px;
+    padding: 24px;
   }
 
   .map-section {

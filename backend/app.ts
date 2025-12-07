@@ -8,6 +8,7 @@ import cors from 'cors';
 import path from 'path';
 import electionRoutes, { initializeElectionData } from './routes/elections.routes';
 import votingRoutes from './routes/voting.routes';
+import marketplaceRoutes from './routes/marketplace.routes';
 
 const app: Express = express();
 const PORT = process.env.PORT || 3000;
@@ -36,6 +37,7 @@ initializeElectionData();
 // API routes
 app.use('/api/elections', electionRoutes);
 app.use('/api/votes', votingRoutes);
+app.use('/api/marketplace', marketplaceRoutes);
 
 // Health check
 app.get('/api/health', (req, res) => {
@@ -72,6 +74,7 @@ app.use((err: any, req: express.Request, res: express.Response, next: express.Ne
 app.listen(PORT, () => {
   console.log(`🚀 Server running at http://localhost:${PORT}`);
   console.log(`📊 API: http://localhost:${PORT}/api/elections`);
+  console.log(`🛒 Marketplace: http://localhost:${PORT}/api/marketplace`);
   console.log(`❤️  Health: http://localhost:${PORT}/api/health`);
 });
 
